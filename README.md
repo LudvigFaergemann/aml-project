@@ -10,4 +10,4 @@ Collaborating on making an ML model to predict credit defaults
 git clone <PASTE_THE_URL_HERE>
 5. Navigate into the project folder:
 cd <type folder name here>
-Note that .ipynb files can be tricky to manage, but nbstripout makes sure output i omitted making it almost hasle free!
+Note that .ipynb files can be tricky to manage, but nbstripout makes sure output i omitted making it seemingly hassle free!

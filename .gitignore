@@ -1,3 +1,31 @@
+# From the default Python template
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Data files - VERY IMPORTANT
+# Never commit large raw data files.
+# Store them elsewhere (e.g., Google Drive) or list specific small CSVs you DO want to track.
+*.csv
+*.json
+*.parquet
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
